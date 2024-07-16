@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i {
+    font-size: 120px;
+    color: rgb(220, 10, 10);
+}
+
